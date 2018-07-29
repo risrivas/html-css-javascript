@@ -1,2 +1,3 @@
-# html-css-javascript
-HTML CSS and JavaScript projects
+# HTML, CSS and JavaScript
+
+* Web Developer Bootcamp - Udemy
