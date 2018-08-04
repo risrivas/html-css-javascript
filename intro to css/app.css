@@ -1,5 +1,8 @@
 h1 {
-	color: red;
+	/*color: red;*/
+	/*color: #F400DD;*/
+	/*color: rgb(11, 99, 150);*/
+	color: rgba(11, 99, 150, .3);
 }
 
 li {
