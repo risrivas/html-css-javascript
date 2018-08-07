@@ -2,15 +2,29 @@ h1 {
 	/*color: red;*/
 	/*color: #F400DD;*/
 	/*color: rgb(11, 99, 150);*/
-	color: rgba(11, 99, 150, .3);
+	color: rgba(0, 200, 100, 0.8);
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px dashed rgb(255, 100, 80);
 }
 
-li {
+/*li {
 	color: green;
-}
+}*/
 
 h4 {
-	color: purple;
+	/*color: purple;*/
+	background: rgb(255, 100, 80);
+}
+
+body {
+	background: pink;
+	/*background: url(https://goo.gl/images/q3pSvi);*/
+	/*background-image: "WoodGrain_5x5_web.jpg";
+	background-repeat: no-repeat;
+	background-size: cover;*/
 }
 
 
